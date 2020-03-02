@@ -16,7 +16,7 @@
 * [* Reto 13: Bucle for (repeticiones) con matrices de leds, enciende todos lo leds](https://create.withcode.uk/python/AJg)
 * [ Reto 13_2: Bucle for (repeticiones) con matrices de leds, enciende todos lo leds en dos sentidos](https://create.withcode.uk/python/AJG)
 * [Reto 14: Bucle for (repeticiones) con lista (array)](https://create.withcode.uk/python/AKF)
-* [* Reto 15: Muestra de tenperatura](https://create.withcode.uk/python/AKG)
+* [* Reto 15: Muestra de temperatura](https://create.withcode.uk/python/AKG)
 * [* Reto 16: Termostato](https://create.withcode.uk/python/AKH)
 * [* Reto 17: Encendido gradual de filas de leds en función de luz](https://create.withcode.uk/python/AKJ)
 * [Reto 17_2: Encendido gradual de filas de leds en función de luz de abajo a arriba](https://create.withcode.uk/python/AKK)
