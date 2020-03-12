@@ -21,6 +21,7 @@
 * [* Reto 17: Encendido gradual de filas de leds en función de luz](https://create.withcode.uk/python/AKJ)
 * [Reto 17_2: Encendido gradual de filas de leds en función de luz de abajo a arriba](https://create.withcode.uk/python/AKK)
 * [* Reto 18: Arriba (UP) o Abajo (DOWN). Jugando con el acelerómetro](https://create.withcode.uk/python/AKM)
+* [Reto 18_2: Juego con acelerómetro](https://create.withcode.uk/python/ANk)
 * [* Reto 19: Brújula](https://create.withcode.uk/python/AKN)
 * [* Reto 20: Botones y radio](https://create.withcode.uk/python/AKP)
 * [* Reto 21: Gestos y radio](https://create.withcode.uk/python/AKQ)
