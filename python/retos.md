@@ -12,7 +12,7 @@
 * [* Reto 9: Bucle infinito (while True:) e if](https://create.withcode.uk/python/AJc)
 * [* Reto 9 2: While con salida boolena](https://create.withcode.uk/python/CXm)
 * [* Reto 10: Bucle infinito e if con control de variable booleana](https://create.withcode.uk/python/AJd)
-* [* Reto 11: Bucle for (repeticiones), sabemos las repteciones](https://create.withcode.uk/python/AJe)
+* [* Reto 11: Bucle for (repeticiones), sabemos el nº de repeticiones](https://create.withcode.uk/python/AJe)
 * [* Reto 11b: Bucle sabiendo nº de repeticiones con While](https://create.withcode.uk/python/CYa)
 * [* Reto 12: Bucle for (repeticiones) con matrices de leds, enciende primera fila](https://create.withcode.uk/python/AJf)
 * [* Reto 13: Bucle for (repeticiones) con matrices de leds, enciende todos lo leds](https://create.withcode.uk/python/AJg)
