@@ -31,4 +31,4 @@
 * [* Reto 21: Gestos y radio](https://create.withcode.uk/python/AKQ)
 * [Reto 22: Registrador de datos por puerto serie (datalogger)](https://create.withcode.uk/python/AKR)
 * [ Reto 23: Funciones 1](https://create.withcode.uk/python/YAf)
-* [ Reto 23: Funciones 2](https://create.withcode.uk/python/YAg)
+* [ Reto 24: Funciones 2](https://create.withcode.uk/python/YAg)
